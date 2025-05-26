@@ -74,3 +74,32 @@ A powerful, full-stack **AI-powered finance management platform** built with mod
 ### 🛡 Bot Protection
 - Arcjet Shield integration for API security
 - Prevents bot abuse, spam, and suspicious access
+
+---
+## ✨ Some Of The Screenshots
+
+![land 1](https://github.com/user-attachments/assets/da040111-6325-46ff-ac0c-65b6755d666c)
+![land 2](https://github.com/user-attachments/assets/02a1ea00-2733-4625-a920-9c98513854c7)
+![land 3 - how it words](https://github.com/user-attachments/assets/8508ca36-7ae0-461c-b513-187d4bb9cd77)
+![login](https://github.com/user-attachments/assets/b7fd9278-850b-43b4-bbb1-b55386289546)
+![WhatsApp Image 2025-05-26 at 5 44 43 PM](https://github.com/user-attachments/assets/3cf031aa-4554-4646-af94-3804dfb8c15a)
+![WhatsApp Image 2025-05-26 at 5 47 29 PM](https://github.com/user-attachments/assets/d685c100-fcbc-4cbf-8e79-650e953a7150)
+![WhatsApp Image 2025-05-26 at 5 47 50 PM](https://github.com/user-attachments/assets/cdd5846b-e3bb-4144-af88-83b6ae897ce3)
+![WhatsApp Image 2025-05-26 at 5 49 59 PM](https://github.com/user-attachments/assets/fcf49963-3ade-4627-a5c7-360a45b81e68)
+![WhatsApp Image 2025-05-26 at 5 51 38 PM](https://github.com/user-attachments/assets/2680444b-6e21-4504-a9c5-7efff68274f2)
+![WhatsApp Image 2025-05-26 at 5 52 09 PM](https://github.com/user-attachments/assets/99d7f556-f837-4e06-8c4b-c8d5f7b966db)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
