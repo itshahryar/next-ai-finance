@@ -77,7 +77,7 @@ A powerful, full-stack **AI-powered finance management platform** built with mod
 
 ---
 
-### 📝 Comments in My Code for Learners
+### 📝 Added Comments in My Code for Learners
 
 - ✅ I have **added helpful comments throughout the codebase** to explain how each part works.
 - 👨‍🎓 These comments are written in **simple language**, making it easier for **students and beginners** to follow along.
