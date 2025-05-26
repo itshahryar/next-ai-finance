@@ -76,6 +76,18 @@ A powerful, full-stack **AI-powered finance management platform** built with mod
 - Prevents bot abuse, spam, and suspicious access
 
 ---
+
+### 📝 Comments in My Code for Learners
+
+- ✅ I have **added helpful comments throughout the codebase** to explain how each part works.
+- 👨‍🎓 These comments are written in **simple language**, making it easier for **students and beginners** to follow along.
+- 🔍 You’ll find **explanations near important logics**.
+- 📚 This project is not just for use — it’s also a great resource to **learn full-stack development** with AI features!
+
+![Learner Friendly](https://img.shields.io/badge/learner-friendly-blue)
+
+---
+
 ## ✨ Some Of The Screenshots
 
 ![land 1](https://github.com/user-attachments/assets/da040111-6325-46ff-ac0c-65b6755d666c)
